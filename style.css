@@ -1,3 +1,35 @@
-html {
-    background-color: rgb(179, 179, 175);
+* {
+    background-color: rgb(199, 199, 192);
+}
+
+.name-heading {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(14, 11, 11);
+    padding: 10px;
+    background-color: rgb(151, 145, 145);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pro-heading {
+    margin: 10px 0px;
+    display: inline-block;
+    font-size: 22px;
+    border-bottom: 1px solid black;
+}
+
+.company {
+    font-size: 20px;
+    font-weight: 600px;
+    font-style: italic;
+}
+
+footer {
+    font-size: 17px;
+    font-weight: 8S00px;
+}
+
+.post {
+    font-size: 16px;
+    font-weight: 700px;
 }
